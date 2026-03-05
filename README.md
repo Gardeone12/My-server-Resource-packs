@@ -10,8 +10,8 @@
  Included Resources
  I have integrated the following projects into this single package:
   1. Hardcore Wither Heart Totem
-     Replaces the default Totem of Undying with a stylized Wither Heart.
-     Original: https://modrinth.com/resourcepack/hardcore-wither-heart-totem-of-undying?version=1.21.10
+    Replaces the default Totem of Undying with a stylized Wither Heart.
+    Original: https://modrinth.com/resourcepack/hardcore-wither-heart-totem-of-undying?version=1.21.10
 
   2.Simple Grass Flowers
     Adds aesthetic floral details to grass blocks for a more vibrant environment.
